@@ -2,7 +2,9 @@ body
 {
     color: #fae091;
     background-color: #3d3d3d;
-	background-image: url(фон.jpg)
+	background-image: url(fon.jpg)
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     margin-bottom: 100px;
      
 }
