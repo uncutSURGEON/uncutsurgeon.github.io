@@ -1,8 +1,8 @@
 body 
 {
     color: #fae091;
-    background: url("fon.jpg") no-repeat;
-     background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-bottom: 100px;
      
 }
