@@ -1,8 +1,7 @@
 body 
 {
     color: #fae091;
-    background-repeat: no-repeat;
-   /* background-attachment: local;*/
+    background: url("fon.jpg") no-repeat;
      background-size: cover;
     margin-bottom: 100px;
      
