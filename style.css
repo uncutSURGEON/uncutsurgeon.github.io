@@ -3,7 +3,7 @@ body
     color: 000000;
     background-repeat: no-repeat;
    /* background-attachment: local;*/
-     background-size: 100%;
+     background-size: cover;
     margin-bottom: 100px;
      
 }
